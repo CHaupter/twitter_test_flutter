@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644973329158",
+    "project_id": "twitter-chaupter",
+    "storage_bucket": "twitter-chaupter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644973329158:android:a46b60df2702bbd083bc87",
+        "android_client_info": {
+          "package_name": "com.chaupter.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644973329158-pni68ms7oln7i6pj8rmdc12em377o14k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv3d7fv_5Ed4MMUOuiIHTuJd6jpK4jJ9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644973329158-pni68ms7oln7i6pj8rmdc12em377o14k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
